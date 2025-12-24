@@ -11,6 +11,7 @@ import GreenSuggestionsPage from './pages/GreenSuggestionsPage';
 import About from './pages/About';
 import Contact from './pages/Contact';
 
+
 function App() {
   return (
     <Router>
